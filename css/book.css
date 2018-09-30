@@ -8,3 +8,15 @@
 .epigraph {
   font-family: "Georgia", serif;
 }
+.chapter-number {
+  text-align: center;
+  font-family: "Georgia", serif;
+}
+.chapter-name {
+  text-align: center;
+  font-family: "Georgia", serif;
+}
+.body-text {
+  font-family: "Georgia", serif;
+  text-indent: 3%;
+}

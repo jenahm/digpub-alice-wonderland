@@ -1,0 +1,10 @@
+.indent-line {
+  text-indent: 1.5em;
+  line-height: normal;
+}
+.first-line {
+  text-indent: 0%;
+}
+.epigraph {
+  font-family: "Georgia", serif;
+}

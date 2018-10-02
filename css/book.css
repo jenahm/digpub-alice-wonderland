@@ -20,3 +20,12 @@
   font-family: "Georgia", serif;
   text-indent: 3%;
 }
+.poem {
+  font-style: italic;
+  text-align: center;
+  font-family: "Georgia", serif;
+}
+.figcaption {
+  font-family: "Georgia", serif;
+  font-style: italic;
+}

@@ -28,4 +28,214 @@
 .figcaption {
   font-family: "Georgia", serif;
   font-style: italic;
+  text-align: center;
+}
+.figure {
+  text-align: center;
+}
+.chapter {
+  font-family: "Georgia", serif;
+}
+.hell-poem {
+  font-family: "Georgia", serif;
+  text-align: center;
+}
+.hell-line0 {
+  text-indent: 0%
+}
+.hell-line1 {
+  text-indent: 3%
+}
+.hell-line2 {
+  text-indent: 6%
+}
+.hell-line3 {
+  text-indent: 10%
+}
+.hell-line4 {
+  text-indent: 12%
+}
+.hell-line5 {
+ font-size:95%;
+ text-indent: 20%
+}
+.hell-line6 {
+ font-size:95%;
+ text-indent: 22%
+}
+.hell-line7 {
+ font-size:95%;
+ text-indent: 28%
+}
+.hell-line8 {
+ font-size:95%;
+ text-indent: 24%
+}
+.hell-line9 {
+ font-size:95%;
+ text-indent: 24%
+}
+.hell-line10 {
+ font-size:95%;
+ text-indent: 20%
+}
+.hell-line11 {
+ font-size:90%;
+ text-indent: 16%
+}
+.hell-line12 {
+ font-size:90%;
+ text-indent: 14%
+}
+.hell-line13 {
+ font-size:90%;
+ text-indent: 12%
+}
+.hell-line14 {
+  font-size:90%;
+  text-indent: 6%
+}
+.hell-line15 {
+  font-size:90%;
+  text-indent: 4%
+}
+.hell-line16 {
+  font-size:85%;
+  text-indent: 2%
+}
+.hell-line17 {
+  font-size:85%;
+  text-indent: 2%
+}
+.hell-line18 {
+  font-size:85%;
+  text-indent: 1%
+}
+.hell-line19 {
+  font-size:85%;
+  text-indent: 1%
+}
+.hell-line20 {
+  font-size:85%;
+  text-indent: 2%
+}
+.hell-line21 {
+  font-size:85%;
+  text-indent: 3%
+}
+.hell-line22 {
+  font-size:85%;
+  text-indent: 4%
+}
+.hell-line23 {
+  font-size:80%;
+  text-indent: 5%
+}
+.hell-line24 {
+  font-size:80%;
+  text-indent: 6%
+}
+.hell-line25 {
+  font-size:80%;
+  text-indent: 7%
+}
+.hell-line26 {
+  font-size:80%;
+  text-indent: 8%
+}
+.hell-line27 {
+  font-size:80%;
+  text-indent: 9%
+}
+.hell-line28 {
+  font-size:80%;
+  text-indent: 10%
+}
+.hell-line29 {
+  font-size:80%;
+  text-indent: 10%
+}
+.hell-line30 {
+  font-size:80%;
+  text-indent: 9%
+}
+.hell-line31 {
+  font-size:80%;
+  text-indent: 8%
+}
+.hell-line32 {
+  font-size:80%;
+  text-indent: 7%
+}
+.hell-line33 {
+  font-size:80%;
+  text-indent: 6%
+}
+.hell-line34 {
+  font-size:80%;
+  text-indent: 5%
+}
+.hell-line35 {
+  font-size:80%;
+  text-indent: 4%
+}
+.hell-line36 {
+  font-size:70%;
+  text-indent: 3%
+}
+.hell-line37 {
+  font-size:70%;
+  text-indent: 2%
+}
+.hell-line38 {
+  font-size:70%;
+  text-indent: 2%
+}
+.hell-line39 {
+  font-size:70%;
+  text-indent: 3%
+}
+.hell-line40 {
+  font-size:70%;
+  text-indent: 4%
+}
+.hell-line41 {
+  font-size:70%;
+  text-indent: 5%
+}
+.hell-line42 {
+  font-size: 60%;
+  text-indent: 6%
+}
+.hell-line43 {
+  font-size: 60%;
+  text-indent: 7%
+}
+.hell-line44 {
+  font-size: 1%;
+  text-indent: 8%
+}
+.hell-line45 {
+  font-size: 1%;
+  text-indent: 9%
+}
+.hell-line46 {
+  font-size: 1%;
+  text-indent: 10%
+}
+.hell-line47 {
+  font-size: 1%;
+  text-indent: 10%
+}
+.hell-line48 {
+  font-size: 1%;
+  text-indent: 6%
+}
+.hell-line49 {
+  font-size: 1%;
+  text-indent: 4%
+}
+.hell-line50 {
+  font-size:1%;
+  text-indent: 2%
 }

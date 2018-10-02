@@ -301,23 +301,19 @@ h1 {
 .chapter-number {
   font-family: "Georgia", serif;
   text-align: center;
-  text-transform: capitalize;
 }
 
 .chapter-name {
   font-family: "Georgia", serif;
   text-align: center;
-  text-transform: capitalize;
 }
 .chapter-title {
   font-family: "Georgia", serif;
   text-align: center;
-  text-transform: capitalize;
 }
 .chapter {
   font-family: "Georgia", serif;
   text-align: center;
-  text-transform: capitalize;
 }
 figcaption {
   font-family: "Georgia", serif;

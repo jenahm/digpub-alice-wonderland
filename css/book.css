@@ -244,5 +244,20 @@ p {
   font-family: "Georgia", serif;
   font-style: normal;
   text-indent: 3%;
-  
+}
+
+h1 {
+   font-family: "Georgia", serif;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+ h2 {
+   font-family: "Georgia", serif;
+  text-align: center;
+}
+
+ h3 {
+   font-family: "Georgia", serif;
+  text-align: center;
 }

@@ -239,3 +239,10 @@
   font-size:1%;
   text-indent: 2%
 }
+
+p {
+  font-family: "Georgia", serif;
+  font-style: normal;
+  text-indent: 3%;
+  
+}

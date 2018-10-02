@@ -8,14 +8,6 @@
 .epigraph {
   font-family: "Georgia", serif;
 }
-.chapter-number {
-  text-align: center;
-  font-family: "Georgia", serif;
-}
-.chapter-name {
-  text-align: center;
-  font-family: "Georgia", serif;
-}
 .body-text {
   font-family: "Georgia", serif;
   text-indent: 3%;
@@ -261,8 +253,6 @@ h1 {
    font-family: "Georgia", serif;
   text-align: center;
 }
-
-
 #by {
   font-family: "Georgia", serif;
   text-align: center;
@@ -319,7 +309,16 @@ h1 {
   text-align: center;
   text-transform: capitalize;
 }
-
+.chapter-title {
+  font-family: "Georgia", serif;
+  text-align: center;
+  text-transform: capitalize;
+}
+.chapter {
+  font-family: "Georgia", serif;
+  text-align: center;
+  text-transform: capitalize;
+}
 figcaption {
   font-family: "Georgia", serif;
   text-align: center;
